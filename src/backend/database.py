@@ -163,6 +163,17 @@ initial_activities = {
         },
         "max_participants": 16,
         "participants": ["william@mergington.edu", "jacob@mergington.edu"]
+    },
+    "Manga Maniacs": {
+        "description": "Dive into epic adventures, powerful friendships, and incredible plot twists! From shonen battles to slice-of-life stories, discover why manga has captured hearts worldwide. Whether you're team Naruto, obsessed with Attack on Titan, or love a good romance manga, join fellow fans to discuss, share recommendations, and maybe even sketch your own characters!",
+        "schedule": "Tuesdays, 7:00 PM - 8:00 PM",
+        "schedule_details": {
+            "days": ["Tuesday"],
+            "start_time": "19:00",
+            "end_time": "20:00"
+        },
+        "max_participants": 15,
+        "participants": []
     }
 }
 
